@@ -28,8 +28,16 @@ Decoder:
 > Conv #4: Conv(256, 512, 4, 1, 1) → BatchNorm → LeakyReLU(0.2)  
 > Conv #5: Conv(512, 1, 4, 1, 1) → Sigmoid  
 
-### Gan Loss: LSGAN
+### Gan Loss: Mean Squared Error (= LSGAN)
   
 ------------------
 ## Output Images
-![output_img](./horse2zebra_sample.png)
+![output_img](./images/output_img.png)
+  
+------------------
+## Loss
+![loss_img](./images/loss_img.png)
+  
+------------------
+## Test
+![test_img](./images/test_img.png)
