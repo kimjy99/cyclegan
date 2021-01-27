@@ -31,7 +31,7 @@ Decoder:
 ### Gan Loss: Mean Squared Error (= LSGAN)
   
 ------------------
-## Output Images
+## Output images during training
 ![output_img](./images/output_img.png)
   
 ------------------
