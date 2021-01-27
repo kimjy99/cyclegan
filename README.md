@@ -2,10 +2,10 @@ CycleGAN: Horse to Zebra
 =============
   
 ## Current update status  
-[X] Implement basic form of CycleGAN   
-[X] Train discriminators if their loss is bigger than criterion  
-[ ] Replay buffer for training discriminator  
-[ ] Different GAN loss (ex. WGAN-GP)  
+-[X] Implement basic form of CycleGAN   
+-[X] Train discriminators if their loss is bigger than criterion  
+-[ ] Replay buffer for training discriminator  
+-[ ] Different GAN loss (ex. WGAN-GP)  
   
 ## Model
 ### Generator: ResNet (9 Residual Blocks)
