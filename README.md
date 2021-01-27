@@ -41,7 +41,7 @@ Decoder:
 ![output_img](./images/output_img.png)
   
 ------------------
-## Loss
+## Loss vs. epoch
 ![loss_img](./images/loss_img.png)
   
 ------------------
